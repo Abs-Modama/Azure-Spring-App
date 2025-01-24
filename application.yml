@@ -1,1 +1,2 @@
-
+application:
+    message: Configured by Azure Spring Apps
